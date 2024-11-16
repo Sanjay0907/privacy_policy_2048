@@ -1,6 +1,6 @@
 **Privacy Policy for 2048 Game**
 
-**Last Updated:** [Date]
+**Last Updated:** 16-11-24
 
 Thank you for using our 2048 game ("the App"). Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our App.
 
